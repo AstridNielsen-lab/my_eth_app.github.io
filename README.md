@@ -80,6 +80,7 @@ my_eth_app/
 ├── requirements.txt        # Dependências do projeto
 ├── main.py                 # Script principal da aplicação
 └── ...                     # Outros scripts e arquivos do projeto
+```
 
 ## Contribuição
 
