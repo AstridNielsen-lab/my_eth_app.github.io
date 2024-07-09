@@ -22,7 +22,7 @@ else:
 
 # Endereço MetaMask
 # Exemplo de endereço Ethereum em formato não-checksum
-address = '0x4a4a953c0662bfc94d9f03f3c3d3b4af01537cfc'
+address = 'endereço Ethereum em formato não-checksum'
 
 # Convertendo para checksum address
 checksum_address = Web3.toChecksumAddress(address)
