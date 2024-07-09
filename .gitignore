@@ -1,0 +1,13 @@
+# Arquivos de ambiente
+.env
+
+# Arquivos de configuração local
+venv/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Outros exemplos específicos do seu projeto
+/config.json
+/logs/
