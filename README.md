@@ -92,3 +92,9 @@ my_eth_app/
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
+
+### Imagens
+
+![Tela](https://raw.githubusercontent.com/AstridNielsen-lab/my_eth_app.github.io/main/Ethereum%20Wallet%20Info%20code.png)
+
+![Código](https://raw.githubusercontent.com/AstridNielsen-lab/my_eth_app.github.io/main/Ethereum%20Wallet%20Info%20code.png)
